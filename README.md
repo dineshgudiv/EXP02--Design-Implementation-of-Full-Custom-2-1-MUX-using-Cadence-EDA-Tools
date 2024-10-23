@@ -45,11 +45,12 @@ ii)	Create Schematic Cell view.
 	Gpdk45 ------------------------nmos1v,  pmos1v
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
-	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+	Click Check and Save buttom
+![WhatsApp Image 2024-10-23 at 07 40 35_cd7d770a](https://github.com/user-attachments/assets/bca8dd1f-269b-4a25-9f66-5a0fad6fea2a)
 
 
- 
+ ![WhatsApp Image 2024-10-23 at 07 40 35_bbe0d998](https://github.com/user-attachments/assets/72515a5c-a713-40ee-8187-b84bcb3c5797)
+
 iii)	Creating the Symbol for schematic Cell view
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -64,6 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
  ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![WhatsApp Image 2024-10-23 at 07 40 36_328318a6](https://github.com/user-attachments/assets/32d3399c-3b84-4476-910a-53d706b0e140)
 
 
 iv)	Creating the new test cell view
@@ -75,6 +77,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
  ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ 
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -90,8 +93,9 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
-
+![WhatsApp Image 2024-10-23 at 07 40 36_39967a26](https://github.com/user-attachments/assets/c43975cb-4f76-49f3-ad91-5377d4b9a32a)
  ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+![WhatsApp Image 2024-10-23 at 07 40 36_479ff9ac](https://github.com/user-attachments/assets/becbfd0e-cf04-47ca-8a95-f1b42c3ebb23)
 
 
 
